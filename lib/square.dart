@@ -7,7 +7,7 @@ square() {
 
 
 squareTwo() {
-  int rows = 5;
+  //int rows = 5;
   for (int i = 1; i <= 5; i++) {
     String stars = '';
 
